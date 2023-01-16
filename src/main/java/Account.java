@@ -124,5 +124,5 @@ public class Account {
     //son bakiyeyi goster
     public void displayCurrentAmount(double balance){
         System.out.println("hesabinizda bulunan bakiye: "+ moneyFormat.format(balance));
-    }
+    }//
 }
